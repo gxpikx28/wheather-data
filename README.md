@@ -1,1 +1,1 @@
-# wheather-data
+# weather-data
